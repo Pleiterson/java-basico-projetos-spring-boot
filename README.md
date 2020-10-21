@@ -12,7 +12,7 @@
 
 
 <!--About session-->
-<h1 align="center">Desenvolvimento Básico Java - Spring Boot (Gradle e Maven)<br>Digital Innovation One</h1>
+<h1 align="center">Desenvolvimento Básico Java<br>Spring Boot (Gradle e Maven)<br>Digital Innovation One</h1>
 
 Exemplo de criação de projetos através da ferramenta [Spring Initializr](https://start.spring.io/), Spring Boot.
 
